@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kange77
 - 👀 I’m interested in QA engineering, AI and Cybersecurity
-- 🌱 I’m currently learning ML security , headless browser, wen scraping
+- 🌱 I’m currently learning ML security , headless browser, web scraping
 - 💞️ I’m looking to collaborate on anything fun
 
 
